@@ -5,7 +5,7 @@ cask "tendedero" do
   url "https://github.com/alejandrobujan/tendedero/releases/download/v#{version}/Tendedero-#{version}.dmg"
   name "Tendedero"
   desc "Hangs every screenshot on a line at the top of the screen"
-  homepage "https://github.com/alejandrobujan/tendedero"
+  homepage "https://tendedero.app/"
 
   livecheck do
     url :url
