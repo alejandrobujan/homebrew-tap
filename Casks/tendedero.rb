@@ -1,6 +1,6 @@
 cask "tendedero" do
-  version "1.6.1"
-  sha256 "1531eaa530fafa670578cc92a277b7e5c096a52818faebaac0ce57b460710c5c"
+  version "1.7.0"
+  sha256 "a3cf51366d0998d79f86bf9029adb0a57971298bcf11625e3f267b9b62af098d"
 
   url "https://github.com/alejandrobujan/tendedero/releases/download/v#{version}/Tendedero-#{version}.dmg"
   name "Tendedero"
