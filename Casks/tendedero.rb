@@ -12,6 +12,11 @@ cask "tendedero" do
     strategy :github_latest
   end
 
+  deprecate! date:    "2026-11-06",
+             because: "grew so much that it is now an official Homebrew cask! " \
+                      "Switch with `brew uninstall --cask alejandrobujan/tap/tendedero && brew install tendedero`. " \
+                      "Thank you for being here from the start"
+
   depends_on macos: :sonoma
 
   app "Tendedero.app"

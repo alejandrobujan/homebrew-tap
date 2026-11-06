@@ -1,4 +1,4 @@
-# Homebrew tap
+# [DEPRECATED] Homebrew tap
 
 Apps by Alejandro Buján.
 
